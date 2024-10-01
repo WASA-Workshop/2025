@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Welcome to WASA 2024
+# Welcome to WASA 2025
 
 In the modern automotive landscape, the integration of software and electronics has catalyzed innovations that enhance safety, security, driver experience, and vehicular automation. As the horizon of innovation expands, encompassing developments like self-adaptive algorithms and sophisticated driving automation, the quest for fully autonomous vehicles intensifies. This surge in software dependency has precipitated a paradigmatic shift, necessitating automotive companies to harness architectural and model-based development techniques.
 While model-based tools and methodologies are gaining traction as standard languages and tools for crafting automotive control software, broader system and software architecture methodologies remain less universally embraced. A notable exception is the AUTOSAR standard, which delineates the lexicon for designing and configuring automotive software architectures and demarcates principal architectural constituents of automotive systems.
 
-This workshop is dedicated to confronting challenges associated with refining and standardizing automotive system/software architecture and engineering techniques for broader industry acceptance. In alliance with the [International Conference on Software Architecture (ICSA)](https://conf.researchr.org/home/icsa-2024) - a vanguard in the software architecture realm – the Workshop on Automotive System/Software Architecture (WASA) seeks to amalgamate insights from both researchers and practitioners. We aspire that this confluence will not only spotlight novel research trajectories, challenges, and roadmaps but also foster enduring partnerships bridging academia and industry well beyond the workshop's conclusion.
+This workshop is dedicated to confronting challenges associated with refining and standardizing automotive system/software architecture and engineering techniques for broader industry acceptance. In alliance with the [International Conference on Software Architecture (ICSA)](https://conf.researchr.org/home/icsa-2025) - a vanguard in the software architecture realm – the Workshop on Automotive System/Software Architecture (WASA) seeks to amalgamate insights from both researchers and practitioners. We aspire that this confluence will not only spotlight novel research trajectories, challenges, and roadmaps but also foster enduring partnerships bridging academia and industry well beyond the workshop's conclusion.
 
 ## Call for Papers
 The program committee of the 10th WASA edition seeks submissions of original and unpublished high-quality papers describing fundamental and applied research, new methods, approaches, and processes, novel applications, approaches for education and training in automotive system/software architecture, and experience reports on all topics related to software architecture including, but not limited to:
@@ -42,7 +42,7 @@ The program committee of the 10th WASA edition seeks submissions of original and
 - **Industrial papers** (max. 6 pages in IEEE Computer Science proceedings format) sharing industrial experience, challenges, research or technical problems, case studies.
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
-Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2024 Companion proceedings, and appear in IEEE Xplore Digital Library.
+Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2025 Companion proceedings, and appear in IEEE Xplore Digital Library.
 
 Papers need to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=wasa24).
 
@@ -50,13 +50,13 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 ## Important Dates
 All dates are AoE.
 
-**Paper submission**: February 18, 2024\
-**Paper notification**: March 17, 2024\
-**Camera-ready workshop papers due**: March 31, 2024\
-**Workshop dates**: June 4, 2024
+**Paper submission**: December 20, 2024\
+**Paper notification**: January 20, 2025\
+**Camera-ready workshop papers due**: January 27, 2025\
+**Workshop dates**: March 31 and April 1, 2025
 
 ## Program (**updated**)
-
+<!--
 This year's WASA will be in conjunction with FAACS 2024 ([8th International Workshop on Formal Approaches for Advanced Computing Systems](https://faacs-workshop.github.io/2024/)) and QUALIFIER 2024 ([2nd International Workshop on Quality in Software Architecture](https://qualifier-workshop.github.io))
 
 | Session | Time | Paper/Keynote |
@@ -77,16 +77,17 @@ This year's WASA will be in conjunction with FAACS 2024 ([8th International Work
 |                | 16:25 - 16:50	| _A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric_ by Susmita Mandal, Balaraju P and Pranay Chawhan |	
 |                | 16:50 - 17:15	| _Refactoring of a Microservices Project driven by Architectural Smell Detection_ by Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana, University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
 |                | 17:15 - 17:30	| **Closing** |		
-
+-->
 ## Committees
 
 ### Organizing Committee
 **Stefan Kugele**, Technische Hochschule Ingolstadt, Germany\
 **Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands\
-**Alessio Bucaioni**, Mälardalen University, Västerås, Sweden
+**Alessio Bucaioni**, Mälardalen University, Västerås, Sweden\
+**Jasmin Jahić**, University of Cambridge, UK
 
 
-### Program Committee
+### Program Committee (tentative)
 
 Klaus Becker, Continental, Germany\
 Christian Berger, University of Gothenburg, Sweden\
@@ -104,6 +105,7 @@ Predrag Filipovikj, Scania, Sweden
 
 ## History
 
+- [10th International Workshop on Automotive System/Software Architecture, Hyderabad, India, 2024](https://wasa-workshop.github.io/2024/)
 - [9th International Workshop on Automotive System/Software Architecture, L’Aquila, Italy, 2023](https://wasa-workshop.github.io/2023/)
 - [8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
 - [7th International Workshop on Automotive System/Software Architecture, Stuttgart, Germany, 2021](https://www.win.tue.nl/wasa2021/)
