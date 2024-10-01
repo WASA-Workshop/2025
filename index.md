@@ -57,28 +57,7 @@ All dates are AoE.
 
 ## Program
 TBA
-<!--
-This year's WASA will be in conjunction with FAACS 2024 ([8th International Workshop on Formal Approaches for Advanced Computing Systems](https://faacs-workshop.github.io/2024/)) and QUALIFIER 2024 ([2nd International Workshop on Quality in Software Architecture](https://qualifier-workshop.github.io))
 
-| Session | Time | Paper/Keynote |
-| --- | --- | --- |
-| Morning&nbsp;1 | 09:30&nbsp;-&nbsp;09:45	| **Opening** |
-|                | 09:45 - 10:30	| **Keynote:** _Evaluating Architectural Quality in the Cloud Era_ by Davide Taibi, University of Oulu	|
-|                | 10:30 - 10:55	| _MoCoRe - A Generic Model-Driven Composition and Rule-Based Refinement Framework_ by Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek, Karlsruhe Institute of Technology, Germany |
-|                | 11:00 - 11:30 | **Coffee Break** |
-| Morning&nbsp;2 | 11:30 - 12:15	| **Keynote:** _Federate Software Defined Vehicle_ by Rutger van Beusekom, CTO Verum |
-|                | 12:15 - 12:40	| _Comparing Programming Language Models for Design Pattern Recognition_ by Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |
-|                | 12:40 - 13:05	| _A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE_ by Tirtha Kaloor and Ion Barosan |
-|                | 13:00 - 14:00 | **Lunch Break** |
-| Afternoon&nbsp;1| 14:00 - 14:30	| **Invited Talk:** _Complex system of systems and Digital Twins_ by Vinay Kulkarni, TCS Research, Pune, India |
-|                | 14:30 - 15:00	| **Invited Talk:** _Two Approaches to V&V of Model Driven Embedded Software_ by Sujit Kumar Chakrabarti, International Institute of Information Technology, Bangalore, India |
-|                | 15:00 - 15:25	| _Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment_ by Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal, TCS Research, Mumbai, India |
-|                | 15:30 - 16:00	| **Coffee Break** |
-| Afternoon&nbsp;2	| 16:00 - 16:25	| _Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper)_ by Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari, University of Greenwich, UK | 
-|                | 16:25 - 16:50	| _A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric_ by Susmita Mandal, Balaraju P and Pranay Chawhan |	
-|                | 16:50 - 17:15	| _Refactoring of a Microservices Project driven by Architectural Smell Detection_ by Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana, University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
-|                | 17:15 - 17:30	| **Closing** |		
--->
 ## Committees
 
 ### Organizing Committee
