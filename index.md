@@ -44,7 +44,7 @@ The program committee of the 10th WASA edition seeks submissions of original and
 
 Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2025 Companion proceedings, and appear in IEEE Xplore Digital Library.
 
-Papers need to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=wasa24).
+Papers need to be submitted electronically via [EasyChair](https://easychair.org/conferences/?conf=wasa25).
 
 
 ## Important Dates
