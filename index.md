@@ -53,7 +53,7 @@ All dates are AoE.
 **Paper submission**: December 20, 2024\
 **Paper notification**: January 20, 2025\
 **Camera-ready workshop papers due**: January 27, 2025\
-**Workshop dates**: March 31 and April 1, 2025
+**Workshop dates**: March 31 or April 1, 2025
 
 ## Program
 TBA
