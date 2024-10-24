@@ -38,7 +38,7 @@ The program committee of the 10th WASA edition seeks submissions of original and
 
 ### Types of Submissions
 
-- **Full papers** (max. 8 pages in IEEE Computer Science proceedings format) presenting novel research ideas, significant empirical studies, successful industrial applications, or important perspectives.
+- **Full papers** (max. 10 pages in IEEE Computer Science proceedings format) presenting novel research ideas, significant empirical studies, successful industrial applications, or important perspectives.
 - **Industrial papers** (max. 6 pages in IEEE Computer Science proceedings format) sharing industrial experience, challenges, research or technical problems, case studies.
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
