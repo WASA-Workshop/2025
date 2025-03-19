@@ -58,9 +58,9 @@ All dates are AoE.
 ## Program
 Here is your table formatted in Markdown for GitHub:
 
-| Session    | Time CET        | Paper/                                                                                         |
+| Session    | Time CET        | Paper                                                                                         |
 |------------|---------------|------------------------------------------------------------------------------------------------------|
-| Morning 1  | 09:15 - 09:30  | Opening                                                                                              |
+| Morning 1  | 09:15~-~09:30  | Opening                                                                                              |
 |            | 09:30 - 10:00  | *Elevating Traffic Safety: Insights into Autonomous Emergency Braking Systems in Varied Highway Environments* by Ricardo Ribeiro, Catarina Gonçalves and Nuno Pombo |
 | Morning 2  | 10:00 - 10:30  | Coffee Break                                                                                        |
 |            | 10:30 - 11:00  | *An Evolvable Knowledge Graph Supporting a Hybrid Intelligence Autonomous Driving System* by Anna Teern, Nada Elgendy, Pertti Seppänen and Tero Päivärinta |
