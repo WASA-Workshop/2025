@@ -56,19 +56,20 @@ All dates are AoE.
 **Workshop dates**: March 31, 2025
 
 ## Program
-Here is your table formatted in Markdown for GitHub:
 
-| Session    | Time CET        | Paper                                                                                         |
-|------------|---------------|------------------------------------------------------------------------------------------------------|
-| Morning 1  | 09:15~-~09:30  | Opening                                                                                              |
-|            | 09:30 - 10:00  | *Elevating Traffic Safety: Insights into Autonomous Emergency Braking Systems in Varied Highway Environments* by Ricardo Ribeiro, Catarina Gonçalves and Nuno Pombo |
-| Morning 2  | 10:00 - 10:30  | Coffee Break                                                                                        |
-|            | 10:30 - 11:00  | *An Evolvable Knowledge Graph Supporting a Hybrid Intelligence Autonomous Driving System* by Anna Teern, Nada Elgendy, Pertti Seppänen and Tero Päivärinta |
-|            | 11:00 - 11:30  | *Complexity Handling in Software-Defined Vehicle: Documenting the Expert Knowledge* by Xinxin Zhu, Rose Sturm, Christian Seiler and Stefan Wagner |
-|            | 11:30 - 12:30  | Lunch Break                                                                                        |
-|            | 12:30 - 13:00  | *Towards Data-Centric and Context-Aware Decision Making in Software-Defined Vehicles* by Ella Peltonen, Vishaka Basnayake, Nada Elgendy, Benjamin Kämä, Pertti Seppänen and Tero Päivärinta |
-|            | 13:00 - 13:30  | Discussion                                                                                          |
-|            | 13:30 - 13:40  | Closing                                                                                            |
+| Session    | Time CET       | Paper                                                                                          |
+|------------|--------------|------------------------------------------------------------------------------------------------------|
+| `Morning 1`  | `09:15 - 09:30` | Opening                                                                                              |
+|            | `09:30 - 10:00` | *Elevating Traffic Safety: Insights into Autonomous Emergency Braking Systems in Varied Highway Environments* by Ricardo Ribeiro, Catarina Gonçalves and Nuno Pombo |
+| `Morning 2`  | `10:00 - 10:30` | Coffee Break                                                                                        |
+|            | `10:30 - 11:00` | *An Evolvable Knowledge Graph Supporting a Hybrid Intelligence Autonomous Driving System* by Anna Teern, Nada Elgendy, Pertti Seppänen and Tero Päivärinta |
+|            | `11:00 - 11:30` | *Complexity Handling in Software-Defined Vehicle: Documenting the Expert Knowledge* by Xinxin Zhu, Rose Sturm, Christian Seiler and Stefan Wagner |
+|            | `11:30 - 12:30` | Lunch Break                                                                                        |
+|            | `12:30 - 13:00` | *Towards Data-Centric and Context-Aware Decision Making in Software-Defined Vehicles* by Ella Peltonen, Vishaka Basnayake, Nada Elgendy, Benjamin Kämä, Pertti Seppänen and Tero Päivärinta |
+|            | `13:00 - 13:30` | Discussion                                                                                          |
+|            | `13:30 - 13:40` | Closing                                                                                            |
+
+Durch das Setzen der Uhrzeiten in Backticks werden sie nicht umbrochen und bleiben in einer Zeile. Das hilft besonders, wenn die Tabelle auf kleineren Bildschirmen betrachtet wird. 🚀
 
 
 ## Committees
